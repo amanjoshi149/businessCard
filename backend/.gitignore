@@ -1,0 +1,7 @@
+# Ignore .env file
+.env
+
+# Ignore node_modules directory (optional, if you don't want to track dependencies)
+node_modules/
+
+# Ignore any other sensitive files or directories
